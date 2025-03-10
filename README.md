@@ -3,7 +3,7 @@ Name : Ragul Raajan T
 
 Roll no : 212223100043
 
-
+Date of experiment : 10.03.2025
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
